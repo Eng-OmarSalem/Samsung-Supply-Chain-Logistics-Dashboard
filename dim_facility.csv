@@ -1,0 +1,7 @@
+facility_id,facility_key,facility_name,country,city,facility_type,specialization,annual_capacity
+1,FAC-KR-GUM-P1,Gumi Manufacturing 1,South Korea,Gumi,Manufacturing,Smartphone,850000
+2,FAC-VN-TNG-P1,Thai Nguyen Plant,Vietnam,Thai Nguyen,Manufacturing,Mobile Assembly,1500000
+3,FAC-KR-GUM-P3,Gumi Appliance Plant,South Korea,Gumi,Manufacturing,Appliances,320000
+4,WH-US-NJ-DC1,New Jersey DC,USA,Cranbury,Warehouse,North America,500000
+5,WH-EU-PL-DC1,Poland DC,Poland,Warsaw,Warehouse,Europe,520000
+6,WH-IN-MUM-DC1,Mumbai DC,India,Mumbai,Warehouse,India,550000

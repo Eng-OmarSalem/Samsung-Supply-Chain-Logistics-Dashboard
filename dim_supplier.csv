@@ -1,0 +1,8 @@
+supplier_id,supplier_key,supplier_name,country,city,specialty,tier,avg_quality_score
+1,SUP-KR-SEC-001,Samsung Electronics Co. Ltd,South Korea,Seoul,Integrated Components,Tier 1,98.5
+2,SUP-KR-SKH-002,SK Hynix Inc.,South Korea,Icheon,DRAM & NAND Flash,Tier 1,97.8
+3,SUP-TW-TSM-001,Taiwan Semiconductor Mfg,Taiwan,Hsinchu,Processors,Tier 1,99.2
+4,SUP-JP-SON-001,Sony Semiconductor,Japan,Tokyo,Image Sensors,Tier 1,98.9
+5,SUP-CN-BOE-001,BOE Technology,China,Beijing,Display Panels,Tier 1,96.5
+6,SUP-VN-SEV-001,Samsung Vietnam,Vietnam,Thai Nguyen,Final Assembly,Tier 2,96.8
+7,SUP-IN-SEI-001,Samsung India,India,Noida,Regional Assembly,Tier 2,95.9

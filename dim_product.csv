@@ -1,0 +1,17 @@
+product_id,product_key,product_name,category,product_line,spec,color,unit_price,unit_cost,weight_kg,Img
+1,SM-S928UZKAXAA,Galaxy S24 Ultra,Smartphone,Galaxy S,512GB,Phantom Black,1299.99,899.99,0.21,https://i.ibb.co/9Hv19S22/s24-Ultra.webp
+2,SM-S928UZAAXAA,Galaxy S24 Ultra,Smartphone,Galaxy S,256GB,Titanium Gray,1199.99,839.99,0.15,https://i.ibb.co/9Hv19S22/s24-Ultra.webp
+3,SM-S921ULVAXAA,Galaxy S24,Smartphone,Galaxy S,256GB,Cobalt Violet,849.99,594.99,0.18,https://i.ibb.co/gMJgXrhG/s24.webp
+4,SM-S911UCEAXAA,Galaxy S23,Smartphone,Galaxy S,128GB,Cream,699.99,489.99,0.17,https://i.ibb.co/tPH2nTkP/s23.webp
+5,SM-F946UZKAXAA,Galaxy Z Fold5,Smartphone,Galaxy Z,512GB,Phantom Black,1919.99,1343.99,0.22,https://i.ibb.co/tPnpz3yp/Folf5.webp
+6,SM-F731UZKAXAA,Galaxy Z Flip5,Smartphone,Galaxy Z,256GB,Graphite,999.99,699.99,0.22,https://i.ibb.co/kgXHN1Nh/fold-5-2.webp
+7,SM-X916UZAAXAA,Galaxy Tab S9 Ultra,Tablet,Tab S,512GB,Graphite,1319.99,923.99,0.67,https://i.ibb.co/HDYmTQ8b/a54.webp
+8,SM-X810NZAAXAR,Galaxy Tab S9,Tablet,Tab S,256GB,Graphite,899.99,629.99,0.47,https://i.ibb.co/F4br0pKx/a34.webp
+9,SM-X115NZAAXAR,Galaxy Tab A9,Tablet,Tab A,64GB,Graphite,219.99,153.99,0.56,https://i.ibb.co/v6MTK3p6/s9.webp
+10,QN85QN90DAFXZA,"Neo QLED 85"" 4K",Television,Neo QLED,85 inch,Black,3299.99,2144.99,15.89,https://i.ibb.co/Xf1xx78G/tab-s9-ultra.webp
+11,QN65S90DAFXZA,"OLED 65"" 4K",Television,OLED,65 inch,Black,2299.99,1494.99,21.56,https://i.ibb.co/p67NdXxW/tab-a9.webp
+12,UN65CU8000FXZA,"Crystal UHD 65""",Television,Crystal UHD,65 inch,Black,649.99,422.49,30.16,https://i.ibb.co/MDMdXTmG/q-85.webp
+13,RF28T5A01SR/AA,Family Hub Refrigerator,Appliance,Refrigerator,28 cu ft,Stainless Steel,3299.99,2144.99,52.65,https://i.ibb.co/KzKrmT0s/q-75.webp
+14,WF50A8800AV/US,Smart Front Load Washer,Appliance,Washer,5.0 cu ft,Brushed Black,1299.99,844.99,69.88,https://i.ibb.co/mw7XszY/q-65.webp
+15,SM-R960NZKAXAA,Galaxy Watch6 Classic,Wearable,Watch,47mm,Black,429.99,300.99,0.06,https://i.ibb.co/nsB3JCLs/Crystal-UHD-55.webp
+16,SM-R510NZAAXAR,Galaxy Buds2 Pro,Wearable,Earbuds,Standard,Graphite,229.99,160.99,0.06,https://i.ibb.co/N2MSq6ZX/Family-Hub-Refrigerator.webp

@@ -1,0 +1,6 @@
+customer_id,customer_key,customer_name,country,channel_type,size,annual_volume_usd
+1,CUST-US-AMZ-001,Amazon.com Inc.,USA,Online,Large,1200000000
+2,CUST-US-BBY-001,Best Buy Co. Inc.,USA,Retailer,Large,850000000
+3,CUST-EU-MMK-001,MediaMarkt Saturn,Germany,Retailer,Large,450000000
+4,CUST-IN-FLP-001,Flipkart,India,Online,Large,420000000
+5,CUST-KR-SSD-001,Samsung Direct Store,South Korea,Direct,Large,650000000
