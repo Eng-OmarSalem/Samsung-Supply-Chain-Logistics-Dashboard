@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31197653/README.md)
+[README.md](https://github.com/user-attachments/files/31197948/README.md)
 <div align="center">
 
 # 📱 Samsung Supply Chain & Logistics Dashboard
@@ -190,7 +190,7 @@ Samsung_Dashboard/
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-OmarSalem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemomar676@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge)](https://gamma.app/docs/Copy-of-Brand-Partnership-Proposal-lrp9yrhau9gdpj1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-omarsalem)
 
