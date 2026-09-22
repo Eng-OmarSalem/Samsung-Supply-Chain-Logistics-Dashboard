@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/31197948/README.md)
 <div align="center">
 
-# 📱 Samsung Supply Chain & Logistics Dashboard
+# 📱 Supply Chain & Logistics Dashboard
 
 ### End-to-End Power BI Analytics — From Raw Materials to the Customer's Door
 
