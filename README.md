@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32586040/README.md)
 <div align="center">
 
 # 📱 Samsung Supply Chain & Logistics Dashboard
