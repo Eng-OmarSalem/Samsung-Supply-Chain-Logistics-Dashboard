@@ -238,6 +238,6 @@ Samsung_Dashboard/
 
 <div align="center">
 
-Made with 📱 and Power BI
+Made with Power BI 📱
 
 </div>
